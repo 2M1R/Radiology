@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "michal.rozanski@gmail.com",
+                "Name": "Michał '2M1R' Różański"
+            }
+        ],
+        "Category": "Multimedia",
+        "Description": "A widget to search and listen internet radio stations",
+        "Icon": "radio",
+        "Id": "com.github.2m1r.radiology",
+        "Name": "Radiology",
+        "Version": "1",
+        "Website": "https://github.com/user/radiology",
+        "BugReportUrl": "https://github.com/user/radiology/bugs"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}
